@@ -68,8 +68,7 @@ A deployed web application on AWS that allows users to input values and receive 
 
 ## Demo Screenshots
 
-_(Add screenshots here once the app is deployed)_
-
+![Home Page](./Media/home-page.png)
 ---
 
 ## 🏷️ Tags
