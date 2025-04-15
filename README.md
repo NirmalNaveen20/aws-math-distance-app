@@ -18,7 +18,7 @@ This project teaches you how to **apply** AWS knowledge to create a practical ap
 
 ---
 
-## 🧠 What do you need to know before starting?
+## What do you need to know before starting?
 
 ### Recommended Skills:
 - Basic understanding of AWS.
@@ -26,7 +26,7 @@ This project teaches you how to **apply** AWS knowledge to create a practical ap
 
 ---
 
-## 🛠️ Tools and Services Used
+## Tools and Services Used
 
 - **AWS Amplify**: Hosts the front-end HTML page.
 - **AWS Lambda (Python)**: Executes backend logic for the application.
@@ -36,7 +36,7 @@ This project teaches you how to **apply** AWS knowledge to create a practical ap
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 The project includes the following files:
 
@@ -49,7 +49,7 @@ The project includes the following files:
 
 ---
 
-## 🔧 How to Run the Project
+## How to Run the Project
 
 1. **Upload the HTML file to AWS Amplify** to host the front-end.
 2. **Create a Lambda function** in AWS using the provided Python script.
@@ -60,13 +60,13 @@ The project includes the following files:
 
 ---
 
-## 🎯 Final Output
+## Final Output
 
 A deployed web application on AWS that allows users to input values and receive math-related results via serverless backend logic. All AWS services work together to provide a seamless, fully integrated cloud-hosted solution.
 
 ---
 
-## 📸 Demo Screenshots
+## Demo Screenshots
 
 _(Add screenshots here once the app is deployed)_
 
