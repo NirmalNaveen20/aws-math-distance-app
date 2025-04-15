@@ -68,7 +68,11 @@ A deployed web application on AWS that allows users to input values and receive 
 
 ## Demo Screenshots
 
+### Home Page
 ![Home Page](./Media/home-page.png)
+
+### Lambda Test
+![Lambda Test](./Media/lambda-code-test.png)
 ---
 
 ## 🏷️ Tags
